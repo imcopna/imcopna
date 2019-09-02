@@ -88,6 +88,7 @@
 								<ul>
 									<li><a href="<?php echo base_url('trasmision'); ?>">Trasmisión en vivo</a></li>
 									<li><a href="http://lavozmisionerabarranca.imcopna.com/">Radio la Voz Misionera</a></li>
+									<li><a href="">La nueva radio</a></li>
 									<!--li><a href="#">Galería</a></li-->
 									<!--li><a href="#">Videos</a></li-->
 								</ul>
